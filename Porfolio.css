@@ -1,0 +1,25 @@
+.back-black {
+    background-color: black;
+    
+}
+
+.center {
+    text-align: center;
+    display: block;
+}
+
+.right {
+    float: right;
+}
+
+.margin-right{
+    margin-right: 10px;
+}
+
+.color-green {
+    color: green;
+}
+
+body{
+    background-color:black
+}
